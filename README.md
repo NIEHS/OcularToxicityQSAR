@@ -12,6 +12,8 @@ datasets.zip : OcuTox dataset matrices used as a starting point for modeling
 
 ECHA_TEST_predictions_110321_FIN.xlsx : ECHA test set detailed results (including substances in overlap with OCUTOXDB)
 
+ECHA_PROPS.xls : data file with descriptors and mapipng table for ECHA test set
+
 ECHA1k_preds.zip : individual model predictions for ECHA test set
 
 models.zip : R-objects (RDS files) of models and auxuliary files - cross-validation predictions, etc
@@ -29,11 +31,7 @@ get_ad.r
 
 qsar_eval.r
 
-
-# Other data files:
 ocutox_dscr_lbl_mod.txt - descriptors list used for modeling
-
-ECHA_PROPS.xls : data file with descriptors and mapipng table for ECHA test set
 
 cas_mix.txt, cas_main.txt, 
 
