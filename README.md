@@ -2,10 +2,8 @@
 
 Repository for QSAR modeling
 
-data files for transfer, currently stored at:
------------------------------
------------------------------
------------------------------
+# Data files for transfer, currently stored at:
+
 
 # paper.zip : manuscript files, including latest draft, figures and TOC
 
