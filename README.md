@@ -20,17 +20,22 @@ models_cv_consensus.zip : cross-validation consensus results for all the endpoin
 
 
 
-r-scripts_etc.zip : contains work scripts and some intermediate files:
-	ocutox_110321.r : main script base, refers to other r files it needs, such as
-	xa.r
-	get_ad.r
-	qsar_eval.r
+# r-scripts_etc.zip : contains work scripts and some intermediate files:
+ocutox_110321.r : main script base, refers to other r files it needs, such as
+
+xa.r
+
+get_ad.r
+
+qsar_eval.r
 
 
-Other data files:
-	ocutox_dscr_lbl_mod.txt - descriptors list used for modeling
-	ECHA_PROPS.xls : data file with descriptors and mapipng table for ECHA test set
-	cas_mix.txt, cas_main.txt, 
-	echa1k_mix.txt, echa1k_main.txt : 
-		weighted feature matrices for modeling and prediction (can be recreated from main script)
+# Other data files:
+ocutox_dscr_lbl_mod.txt - descriptors list used for modeling
+
+ECHA_PROPS.xls : data file with descriptors and mapipng table for ECHA test set
+
+cas_mix.txt, cas_main.txt, 
+
+echa1k_mix.txt, echa1k_main.txt : weighted feature matrices for modeling and prediction (can be recreated from main script)
 
