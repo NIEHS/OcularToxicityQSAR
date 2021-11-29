@@ -4,8 +4,6 @@ Repository for QSAR modeling
 
 # Data files for transfer, currently stored at:
 
-paper.zip : manuscript files, including latest draft, figures and TOC
-
 OcuTox_110321_FIN.xlsx : main data file, contains OCUTOXDB, modeling sets and main results
 
 datasets.zip : OcuTox dataset matrices used as a starting point for modeling
