@@ -14,13 +14,15 @@ ECHA_PROPS.xls : data file with descriptors and mapipng table for ECHA test set
 
 ECHA1k_preds.zip : individual model predictions for ECHA test set
 
-models.zip : R-objects (RDS files) of models and auxuliary files - cross-validation predictions, etc
+models-rds: R-objects (RDS files) of models
+
+models-txt.zip : models auxuliary files - cross-validation predictions, etc
 
 models_cv_consensus.zip : cross-validation consensus results for all the endpoints
 
 
 
-# r-scripts_etc.zip : contains work scripts and some intermediate files:
+# r-scripts_etc.zip : contains work scripts and some intermediate files
 ocutox_110321.r : main script base, refers to other r files it needs, such as
 
 xa.r
