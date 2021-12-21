@@ -16,7 +16,7 @@ Repository for QSAR modeling
 
 - models-rds: R-objects (RDS files) of models
 
-- models-txt.zip : models auxuliary files : cross-validation predictions, etc
+- models-txt.zip : models auxuliary files, cross-validation predictions, etc
 
 - models_cv_consensus.zip : cross-validation consensus results for all the endpoints
 
