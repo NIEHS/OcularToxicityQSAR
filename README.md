@@ -20,7 +20,7 @@ Repository for QSAR modeling
 
 - models_cv_consensus.zip : cross-validation consensus results for all the endpoints
 
-- Sedykh Ocutox QSAR SuppMaterials.xlsx 
+- Sedykh_Ocutox_SuppInfo.xlsx 
 
 
 
